@@ -36,8 +36,8 @@ By default, the script is set to open the first 10 folders. You can change this 
 Example
 If your HTML files are located in E:/Harsh/Web Templates/Law-firm/, the script will generate paths such as:
 
-file:///E:/Harsh/Web%20Templates/Law-firm/1/index.html
-file:///E:/Harsh/Web%20Templates/Law-firm/2/index.html
+file:///E:/folder/Web%20Templates/Law-firm/1/index.html
+file:///E:/folder/Web%20Templates/Law-firm/2/index.html
 These paths will be opened in new tabs in your default browser.
 
 Customization
